@@ -33,7 +33,7 @@ def main():
 	oper = input()
 	num2 = int(input())
 	res = calc(num1, oper, num2)
-	print("Result for feature1" + "= " + str(res))
+	print("Result for feature2" + "= " + str(res))
 
 
 main()
